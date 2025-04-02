@@ -12,7 +12,7 @@
     "key_path": "example.key"
   },
   "trusted_origins": [
-  "https://gophish-production-3414.up.railway.app",
+  "https://gophish-production-3414.up.railway.app"
 ],
   "db_name": "sqlite3",
   "db_path": "gophish.db",
